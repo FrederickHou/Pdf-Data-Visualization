@@ -1,0 +1,7 @@
+{
+
+    "pdf_name" :"test",
+    "PageWidth" : 2550,
+    "PageHeight" : 3300,
+    "temp_path": "./pdf"
+}
