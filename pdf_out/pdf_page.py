@@ -2,10 +2,9 @@
 # coding=utf-8
 """
 /*******************************************************************************
- * Deep North Confidential
- * Copyright (C) 2018 Deep North Inc. All rights reserved.
- * The source code for this program is not published
- * and protected by copyright controlled
+@auther:Frederick HOu
+@email:frederick_hou@163.com
+@date:2019/03/09
  *******************************************************************************/
 """
 import random
@@ -30,10 +29,6 @@ class PdfPage(PdfUI):
         '''
         add your page
         '''
-        chart_data = [25,65,330]
-        chart_lable=['index','a']
-        data = []
-        data.append(chart_data)
-        self.pdf_drawBar(data)
+
         self.pdf_add_page()
 

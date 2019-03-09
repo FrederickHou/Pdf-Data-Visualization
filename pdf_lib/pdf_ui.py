@@ -1,6 +1,12 @@
 #!/usr/bin/ python
 # coding=utf-8
-
+'''
+/*******************************************************************************
+@auther:Frederick HOu
+@email:frederick_hou@163.com
+@date:2019/03/09
+ *******************************************************************************/
+"""
 from Pdf import Pdf
 from pdf_util import PdfUtil
 from reportlab.pdfbase import pdfmetrics

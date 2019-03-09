@@ -2,13 +2,11 @@
 # coding=utf-8
 """
 /*******************************************************************************
- * Deep North Confidential
- * Copyright (C) 2018 Deep North Inc. All rights reserved.
- * The source code for this program is not published
- * and protected by copyright controlled
+@auther:Frederick HOu
+@email:frederick_hou@163.com
+@date:2019/03/09
  *******************************************************************************/
 """
-
 import os
 import json
 import logging
